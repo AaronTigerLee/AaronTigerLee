@@ -1,16 +1,22 @@
-## Hi there 👋
+# FIRSTNAME LASTNAME [![GitHubBadge](https://img.shields.io/github/followers/AaronTigerLee?label=Followers&logo=GitHub&style=social)](https://github.com/AaronTigerLee)
 
-<!--
-**YummyTigerFood/YummyTigerFood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+INTRO ABOUT YOU
 
-Here are some ideas to get you started:
+## Interests
+- **Languages:**
+  - C#
+  - C++
+  - Python
+  - SQL
+  
+## Projects
+- [PROJECTNAME](https://github.com/GITHUBNAME/PROJECTNAME): PROJECTDESCRIPTION
+  
+## Let's Connect
+Feel free to drop a line or simply say hello on [LinkedIn](https://www.linkedin.com/in/aaron-tiger-lee). I'm always up for an insightful conversation!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Metrics
+![GitHubStreak](https://github-readme-streak-stats.herokuapp.com/?user=AaronTigerLee&theme=tokyonight)
+![GITHUBNAME GitHubPerformance](https://github-readme-stats.vercel.app/api?username=AaronTigerLee&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronTigerLee&layout=compact&theme=tokyonight)
