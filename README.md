@@ -11,7 +11,7 @@ INTRO ABOUT YOU
   - SQL
   
 ## Projects
-- [PROJECTNAME](https://github.com/AaronTigerLee/Unity2D-Essentials): This was a mini-project submission for an assignment in my Microsoft Software and Systems Academy class. I created a 2D Unity game to explore the Unity game engine.
+- [Unity2D Essentials](https://github.com/AaronTigerLee/Unity2D-Essentials): This was a mini-project submission for an assignment in my Microsoft Software and Systems Academy class. I created a 2D Unity game to explore the Unity game engine.
   
 ## Let's Connect
 Feel free to drop a line or simply say hello on [LinkedIn](https://www.linkedin.com/in/aaron-tiger-lee). I'm always up for an insightful conversation!
